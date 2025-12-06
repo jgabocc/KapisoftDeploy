@@ -11,11 +11,12 @@
       ProcessorArchitecture="x64"
       Uri="https://github.com/jgabocc/KapisoftDeploy/releases/download/0.1.0-alpha/KapiSoft_0.1.0.0.msix" />
 
-  <UpdateSettings>
+<UpdateSettings>
     <OnLaunch
-        HoursBetweenUpdateChecks="0"
-        ShowPrompt="true"
-        UpdateBlocksActivation="false" />
+        HoursBetweenUpdateChecks="1"
+        ShowPrompt="false"
+        UpdateBlocksActivation="true" />
   </UpdateSettings>
 
 </AppInstaller>
+
