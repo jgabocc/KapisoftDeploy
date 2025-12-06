@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
     xmlns="http://schemas.microsoft.com/appx/appinstaller/2018"
-    Uri="https://raw.githubusercontent.com/jgabocc/KapiSoft/kapisoft2/KapiSoft/deploy/KapiSoft.appinstaller"
+    Uri="https://raw.githubusercontent.com/jgabocc/KapisoftDeploy/main/KapiSoft.appinstaller"
     Version="0.1.0.0">
 
   <MainPackage
@@ -9,7 +9,7 @@
       Publisher="CN=GabrielKapiSoft"
       Version="0.1.0.0"
       ProcessorArchitecture="x64"
-      Uri="https://github.com/jgabocc/KapiSoft/releases/download/0.1.0-alpha/KapiSoft_0.1.0.0.msix" />
+      Uri="https://github.com/jgabocc/KapisoftDeploy/releases/download/0.1.0-alpha/KapiSoft_0.1.0.0.msix" />
 
   <UpdateSettings>
     <OnLaunch
